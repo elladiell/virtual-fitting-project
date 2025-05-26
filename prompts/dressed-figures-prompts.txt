@@ -1,0 +1,5 @@
+АЗИАТСКИЙ ТИП (СТРОЙНАЯ):
+Positive: 
+portrait of a young Asian woman, slim build, height 165cm, wearing simple white t-shirt and jeans, neutral pose, studio lighting, full body shot, photorealistic, high quality, detailed skin texture, natural expression, wearing professional business suit, tailored navy blue blazer, crisp white button-up shirt, pencil skirt, elegant fit, high quality wool fabric, professional attire, detailed clothing texture, realistic fabric draping, studio photography, petite sizing, tailored for slim frame
+Negative:
+oversized clothing, baggy clothes, heavy makeup
