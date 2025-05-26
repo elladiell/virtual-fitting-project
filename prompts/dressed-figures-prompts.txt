@@ -9,3 +9,9 @@ Positive:
 portrait of a Slavic woman, 27 years old, average build, medium height 168cm, natural proportions, wearing fitted white t-shirt and dark jeans, confident pose, studio lighting, full body shot, photorealistic, detailed features, professional photography, , wearing professional business suit, tailored navy blue blazer, crisp white button-up shirt, pencil skirt, elegant fit, high quality wool fabric, professional attire, detailed clothing texture, realistic fabric draping, studio photography
 Negative:
 oversized clothing, baggy clothes, heavy makeup
+
+РОССИЙСКИЙ ТИП 2 (КРУПНАЯ):
+Positive:
+portrait of a European woman, 30 years old, curvy chubby athletic build, toned muscles, height 170cm, confident posture, studio lighting, full body shot, photorealistic, detailed muscle definition, plus size tailoring, modest clothing, conservative professional fit, wearing professional business suit, tailored navy blue blazer, crisp white button-up shirt, pencil skirt, well-fitted business outfit, no skin exposure, skirt reaches knees, blazer buttoned, covered cleavage, elegant fit, high quality wool fabric, professional attire, detailed clothing texture, realistic fabric draping, studio photography
+Negative:
+oversized clothing, baggy clothes, heavy makeup, cleavage, exposed skin, lingerie, sheer fabric, see-through, revealing outfit, nsfw, explicit, open shirt, unbuttoned, low neckline
