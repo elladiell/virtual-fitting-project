@@ -49,14 +49,23 @@
 ## Структура
 
 **virtual-fitting-project/**
-- **workflows/** - все файлы для ComfyUI
-  - **screenshots/** - скриншоты настроек workflow
-  - asian-slim.json, russian-medium-base.json, russian-curvy-base.json
-  - suit-asian-slim.json, suit-russian-medium.json, suit-russian-curvy.json
-- **images/** - сгенерированные изображения
-  - **base-figures/** - базовые изображения без делового стиля
-  - **fitted-results/** - результаты с примеркой делового стиля
-- **prompts/** - текстовые промпты для генерации
+- **workflows/** – все файлы для ComfyUI  
+  - **screenshots/** – скриншоты настроек workflow  
+  - **base-figures/** – JSON-файлы workflow для генерации базовых фигур без делового стиля
+    - `asian-slim.json`  
+    - `russian-medium-base.json`  
+    - `russian-curvy-base.json`  
+  - **clothing-fitting/** – JSON-файлы workflow для генерации фигур с деловым стилем
+    - `suit-asian-slim.json`  
+    - `suit-russian-medium.json`  
+    - `suit-russian-curvy.json`  
+- **images/** – сгенерированные изображения  
+  - **base-figures/** – базовые изображения без делового стиля  
+  - **fitted-results/** – результаты с примеркой делового стиля  
+- **prompts/** – текстовые промпты для генерации  
+  - `base-figures-prompts.txt` – промпты для генерации без делового стиля  
+  - `dressed-figures-prompts.txt` – промпты для генерации с деловым стилем  
+
 
 ## Руководство по запуску
 
