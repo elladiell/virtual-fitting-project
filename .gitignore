@@ -1,0 +1,25 @@
+# Large model files
+*.safetensors
+*.ckpt
+*.bin
+*.pt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# ComfyUI specific
+temp/
+output/
